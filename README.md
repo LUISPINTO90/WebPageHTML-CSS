@@ -1,6 +1,6 @@
 #  🦾 WebPageHTML-CSS 
 **This project is a simple HTML and CSS page, basically with an index that leads you to another page.**
-**https://luispinto90.github.io/WebPageHTML-CSS/works.html**
+**https://luispinto90.github.io/WebPageHTML-CSS/index.html**
 
 **This is how interface looks:**
 >Looks minimalist
