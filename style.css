@@ -1,0 +1,125 @@
+
+body {
+    font-family: -apple-system, 'Segoe UI', sans-serif;
+    color:#85929E;
+    background-color: #D6DBDF;
+    font-size: 1.2rem;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+article {
+    margin-top: 3em;
+}
+
+
+h1 {
+    font-size: 3.2rem;
+    line-height: 2em;
+    
+}
+
+h2 {
+    font-size: 2rem;
+    line-height: 1.3em;
+}
+
+p {
+    margin-top: 1.5em;
+    font-size: 1em;
+}
+
+.img-code {
+    display: block;
+    margin: 0;
+    width: 80%;
+    height: 80%;
+    
+}
+
+.container {
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.main {
+    padding-top: 3rem;
+}
+
+.header {
+    background: #AEB6BF;
+    color: white;
+    padding: 2rem 0;
+
+    position: static;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.href-works {
+    text-decoration: none;
+    color:#85929E;
+}
+
+.header-menu-container {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+    .menu ul li {
+        display: inline-block;
+    }
+        .menu ul li a {
+            font-size: 1.2em;
+            display: block;
+            padding: 0.5rem 1rem;
+            transition: all 0.3s linear;
+            border-radius: 5px;
+        }
+            .menu ul li a:hover {
+                background: #C9D1DA;
+            }
+
+.footer {
+    background: #EAECEE;
+    padding: 1rem 0;
+    text-align: center;
+    margin-top: 6rem;
+    
+}
+
+.img-footer {
+    width: 40%;
+}
+
+.individual-card {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+    .individual-card :hover {
+        background: #C9D1DA;
+        transition: 0.3s linear;
+        border-radius: 5px;
+    }
+
+.album {
+    width: 240px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0 , 0.2), 0 6px 20px 0 rgba(0, 0,0 , 0.19);
+    text-align: center;
+}
+
+
